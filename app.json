@@ -31,6 +31,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5cf0b033-021d-4413-a288-be12e4dfbdcc"
+      }
+    },
+    "owner": "juanquimulki",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5cf0b033-021d-4413-a288-be12e4dfbdcc"
     }
   }
 }
